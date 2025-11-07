@@ -1,8 +1,7 @@
 ---
-
 ### Hey there! 👋 I'm Bhavya.
 
-I'm an AI and Robotics Master's student who loves to build, architect and understand complex systems, from robot arms to neural networks. I'm actively building new projects and mastering the latest in AI.
+Hey there! 👋 I'm an AI and Robotics Master's student who loves using AI to solve real-world industrial problems. I'm currently building tools that do everything from helping developers test their code using LLMs to analyzing sensor data to predict when a machine might fail. My goal is to find tough, practical challenges and build smart solutions for them.
 
 🎓 Pursuing my Master’s in AI and Robotics at Hochschule Hof, Germany.
 
