@@ -11,13 +11,12 @@ Hey there! 👋 I'm an AI and Robotics Master's student who loves using AI to so
 
 * **Industrial AI:** **Developing** solutions for Predictive Maintenance, Condition Monitoring, and analyzing massive sensor datasets.
 * **Generative AI:** **Implementing** the latest LLM developments, **building** AI Agents, and **architecting** RAG pipelines.
-* **Core Focus:** Deep Learning & Computer Vision.
 
 ---
 
 ### 🧠 Tech Stack
 
-* **Languages:** Python, C++
+* **Languages:** Python
 * **Core ML/DL:** PyTorch, Scikit-learn, NumPy, Pandas
 * **GenAI & RAG:** Langchain, Langgraph, Ollama
 * **NLP & Embeddings:** Hugging Face Transformers, BERT, QWEN (e.g., 4b/8b models)
